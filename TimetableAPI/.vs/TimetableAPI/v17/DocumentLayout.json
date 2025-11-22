@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|d:\\du(btech)\\.net project\\timetableapi\\services\\schedulingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|solutionrelative:services\\schedulingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|d:\\du(btech)\\.net project\\timetableapi\\services\\importservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|solutionrelative:services\\importservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|d:\\du(btech)\\.net project\\timetableapi\\viewmodels\\timetablegenerationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|solutionrelative:viewmodels\\timetablegenerationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|d:\\du(btech)\\.net project\\timetableapi\\viewmodels\\timetableentryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|solutionrelative:viewmodels\\timetableentryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|d:\\du(btech)\\.net project\\timetableapi\\viewmodels\\batchdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|solutionrelative:viewmodels\\batchdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|d:\\du(btech)\\.net project\\timetableapi\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|solutionrelative:models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|d:\\du(btech)\\.net project\\timetableapi\\controllers\\generatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|solutionrelative:controllers\\generatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|d:\\du(btech)\\.net project\\timetableapi\\controllers\\dataviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|solutionrelative:controllers\\dataviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|d:\\du(btech)\\.net project\\timetableapi\\controllers\\batchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|solutionrelative:controllers\\batchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|d:\\du(btech)\\.net project\\timetableapi\\models\\timetabledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|solutionrelative:models\\timetabledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|d:\\du(btech)\\.net project\\timetableapi\\models\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|solutionrelative:models\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|d:\\du(btech)\\.net project\\timetableapi\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|solutionrelative:models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|d:\\du(btech)\\.net project\\timetableapi\\models\\studentelectivechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|solutionrelative:models\\studentelectivechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|d:\\du(btech)\\.net project\\timetableapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|d:\\du(btech)\\.net project\\timetableapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|d:\\du(btech)\\.net project\\timetableapi\\timetableapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|solutionrelative:timetableapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|d:\\du(btech)\\.net project\\timetableapi\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F24D46C-C385-45E2-B242-DCAC8CB91065}|TimetableAPI.csproj|solutionrelative:controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimetableGenerationRequest.cs",
+              "DocumentMoniker": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\ViewModels\\TimetableGenerationRequest.cs",
+              "RelativeDocumentMoniker": "ViewModels\\TimetableGenerationRequest.cs",
+              "ToolTip": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\ViewModels\\TimetableGenerationRequest.cs",
+              "RelativeToolTip": "ViewModels\\TimetableGenerationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:26:57.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimetableEntryViewModel.cs",
+              "DocumentMoniker": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\ViewModels\\TimetableEntryViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\TimetableEntryViewModel.cs",
+              "ToolTip": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\ViewModels\\TimetableEntryViewModel.cs",
+              "RelativeToolTip": "ViewModels\\TimetableEntryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:26:51.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GeneratorController.cs",
+              "DocumentMoniker": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Controllers\\GeneratorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GeneratorController.cs",
+              "ToolTip": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Controllers\\GeneratorController.cs",
+              "RelativeToolTip": "Controllers\\GeneratorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:24:43.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BatchController.cs",
+              "DocumentMoniker": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Controllers\\BatchController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BatchController.cs",
+              "ToolTip": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Controllers\\BatchController.cs",
+              "RelativeToolTip": "Controllers\\BatchController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:19:14.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TimeSlot.cs",
+              "DocumentMoniker": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Models\\TimeSlot.cs",
+              "RelativeDocumentMoniker": "Models\\TimeSlot.cs",
+              "ToolTip": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Models\\TimeSlot.cs",
+              "RelativeToolTip": "Models\\TimeSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:19:07.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentElectiveChoice.cs",
+              "DocumentMoniker": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Models\\StudentElectiveChoice.cs",
+              "RelativeDocumentMoniker": "Models\\StudentElectiveChoice.cs",
+              "ToolTip": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Models\\StudentElectiveChoice.cs",
+              "RelativeToolTip": "Models\\StudentElectiveChoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:19:01.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:18:59.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Models\\Room.cs",
+              "ToolTip": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Models\\Room.cs",
+              "RelativeToolTip": "Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:18:57.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TimetableDbContext.cs",
+              "DocumentMoniker": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Models\\TimetableDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\TimetableDbContext.cs",
+              "ToolTip": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Models\\TimetableDbContext.cs",
+              "RelativeToolTip": "Models\\TimetableDbContext.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:16:03.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:13:15.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TimetableAPI.http",
+              "DocumentMoniker": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\TimetableAPI.http",
+              "RelativeDocumentMoniker": "TimetableAPI.http",
+              "ToolTip": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\TimetableAPI.http",
+              "RelativeToolTip": "TimetableAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-19T04:13:10.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Models\\Faculty.cs",
+              "RelativeDocumentMoniker": "Models\\Faculty.cs",
+              "ToolTip": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Models\\Faculty.cs",
+              "RelativeToolTip": "Models\\Faculty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T04:12:45.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomsController.cs",
+              "ToolTip": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "Controllers\\RoomsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T09:55:02.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BatchDetailsViewModel.cs",
+              "DocumentMoniker": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\ViewModels\\BatchDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BatchDetailsViewModel.cs",
+              "ToolTip": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\ViewModels\\BatchDetailsViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BatchDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T09:47:59.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataViewController.cs",
+              "DocumentMoniker": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Controllers\\DataViewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DataViewController.cs",
+              "ToolTip": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Controllers\\DataViewController.cs",
+              "RelativeToolTip": "Controllers\\DataViewController.cs",
+              "ViewState": "AgIAAFsBAAAAAAAAAAAAAGwBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T18:15:54.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchedulingService.cs",
+              "DocumentMoniker": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Services\\SchedulingService.cs",
+              "RelativeDocumentMoniker": "Services\\SchedulingService.cs",
+              "ToolTip": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Services\\SchedulingService.cs",
+              "RelativeToolTip": "Services\\SchedulingService.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAAAAACgBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T13:54:58.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImportService.cs",
+              "DocumentMoniker": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Services\\ImportService.cs",
+              "RelativeDocumentMoniker": "Services\\ImportService.cs",
+              "ToolTip": "D:\\DU(Btech)\\.Net Project\\TimetableAPI\\Services\\ImportService.cs",
+              "RelativeToolTip": "Services\\ImportService.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAGYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T13:52:22.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+.documentation-page {
+    min-height: 100vh;
+    background: #f8fafc;
+}
+
+.doc-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    gap: 0;
+    background: white;
+    min-height: calc(100vh - 200px);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Sidebar */
+.doc-sidebar {
+    background: #1a1a1a;
+    color: white;
+    padding: 2rem 0;
+    height: 100%;
+    position: sticky;
+    top: 0;
+    overflow-y: auto;
+}
+
+.doc-sidebar h3 {
+    padding: 0 2rem 1.5rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+    border-bottom: 1px solid #374151;
+    margin-bottom: 1rem;
+}
+
+.doc-nav {
+    display: flex;
+    flex-direction: column;
+}
+
+.doc-nav-item {
+    background: none;
+    border: none;
+    color: #9ca3af;
+    text-align: left;
+    padding: 1rem 2rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-size: 0.95rem;
+    border-left: 3px solid transparent;
+}
+
+.doc-nav-item:hover {
+    color: white;
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.doc-nav-item.active {
+    color: white;
+    background: rgba(255, 255, 255, 0.1);
+    border-left-color: #667eea;
+    font-weight: 600;
+}
+
+/* Main Content */
+.doc-content {
+    padding: 3rem;
+    overflow-y: auto;
+    background: white;
+}
+
+.doc-section h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    color: #1a1a1a;
+    border-bottom: 2px solid #f1f5f9;
+    padding-bottom: 1rem;
+}
+
+.doc-section h2 {
+    font-size: 1.75rem;
+    font-weight: 600;
+    margin: 2.5rem 0 1rem;
+    color: #1a1a1a;
+}
+
+.doc-section h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 2rem 0 1rem;
+    color: #374151;
+}
+
+.doc-section h4 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin: 1.5rem 0 0.75rem;
+    color: #374151;
+}
+
+.doc-section p {
+    line-height: 1.7;
+    color: #6b7280;
+    margin-bottom: 1.5rem;
+}
+
+.doc-section ul {
+    margin: 1.5rem 0;
+    padding-left: 1.5rem;
+}
+
+.doc-section li {
+    line-height: 1.7;
+    color: #6b7280;
+    margin-bottom: 0.5rem;
+}
+
+.doc-section strong {
+    color: #374151;
+    font-weight: 600;
+}
+
+/* Step Cards */
+.step-card {
+    background: #f8fafc;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    padding: 2rem;
+    margin: 1.5rem 0;
+    border-left: 4px solid #667eea;
+}
+
+.step-card h3 {
+    margin-top: 0;
+    color: #1a1a1a;
+}
+
+/* Code Examples */
+.code-example {
+    background: #1a1a1a;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+    overflow-x: auto;
+}
+
+.code-example pre {
+    color: #e5e7eb;
+    font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    margin: 0;
+    white-space: pre-wrap;
+}
+
+/* Tip Cards */
+.tip-card {
+    background: linear-gradient(135deg, #dbeafe 0%, #e0e7ff 100%);
+    border: 1px solid #c7d2fe;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+}
+
+.tip-card h4 {
+    margin-top: 0;
+    color: #3730a3;
+}
+
+.tip-card p {
+    color: #4f46e5;
+    margin-bottom: 0;
+}
+
+/* Issue Cards */
+.issue-card {
+    background: #fef2f2;
+    border: 1px solid #fecaca;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin: 1rem 0;
+}
+
+.issue-card h4 {
+    margin-top: 0;
+    color: #dc2626;
+}
+
+.issue-card p {
+    color: #991b1b;
+    margin-bottom: 0;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .doc-container {
+        grid-template-columns: 250px 1fr;
+    }
+    
+    .doc-content {
+        padding: 2rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .doc-container {
+        grid-template-columns: 1fr;
+    }
+    
+    .doc-sidebar {
+        position: static;
+        height: auto;
+    }
+    
+    .doc-nav {
+        flex-direction: row;
+        overflow-x: auto;
+        padding: 0 1rem 1rem;
+    }
+    
+    .doc-nav-item {
+        white-space: nowrap;
+        border-left: none;
+        border-bottom: 3px solid transparent;
+        padding: 0.75rem 1rem;
+    }
+    
+    .doc-nav-item.active {
+        border-left-color: transparent;
+        border-bottom-color: #667eea;
+    }
+    
+    .doc-sidebar h3 {
+        text-align: center;
+    }
+}
+
+@media (max-width: 480px) {
+    .doc-content {
+        padding: 1.5rem;
+    }
+    
+    .doc-section h1 {
+        font-size: 2rem;
+    }
+    
+    .step-card,
+    .tip-card,
+    .issue-card {
+        padding: 1.5rem;
+    }
+    
+    .code-example {
+        padding: 1rem;
+    }
+    
+    .code-example pre {
+        font-size: 0.8rem;
+    }
+}
